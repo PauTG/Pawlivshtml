@@ -1,0 +1,7 @@
+.Aika{display: flex;
+    align-items: center;
+    width: 100%;}
+
+    .subtitulo {border: solid 1px rosybrown;
+        background-color: violet;
+    }
